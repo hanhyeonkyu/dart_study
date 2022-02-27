@@ -5,6 +5,7 @@ import 'string_apis.dart';
 export 'covert_usage.dart';
 
 void ext_usage() {
+  print(' ');
   // string to num
   print('42'.parseInt());
   print('42'.parseDouble());
